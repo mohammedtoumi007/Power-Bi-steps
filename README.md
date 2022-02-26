@@ -13,5 +13,5 @@ In this dashboard i will report :
   - Top Customers 
   - Top products
   
- https://github.com/mohammedtoumi007/Power-Bi-steps/issues/1#issue-1151789302
+![AdventureWorksDashboard](https://user-images.githubusercontent.com/55878755/155844182-79f0e28e-2394-4dd5-b8f7-94e7cb6acde2.png)
 
